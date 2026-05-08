@@ -85,8 +85,9 @@
 | 26.05.03 | 프로그래머스 | Level_Tests/Level_1 | 바탕화면정리 | 이차원배열 | Success |
 | 26.05.03 | 프로그래머스 | Level_Tests/Level_1 | 성경유형검사 | 딕셔너리 | Success |
 | 26.05.03 | 프로그래머스 | Level_Tests/Level_2 | [3차]n진수게임 | 수학/문자열 | Success |
-| 26.05.4 | 프로그래머스 | Level_Tests/Level_2 | 기능개발 | 스택/큐 | Success(재풀이) |
-| 26.05.5 | 프로그래머스 | Level_Tests/Level_2 | 문자열압축 | 슬라이싱/구현 | Success |
+| 26.05.04 | 프로그래머스 | Level_Tests/Level_2 | 기능개발 | 스택/큐 | Success(재풀이) |
+| 26.05.05 | 프로그래머스 | Level_Tests/Level_2 | 문자열압축 | 슬라이싱/구현 | Success |
+| 26.05.08 | 프로그래머스 | Level_Tests/Level_2 | 압축 | 슬라이싱/구현 | Success |
 
 ---z
 
