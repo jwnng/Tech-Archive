@@ -101,6 +101,7 @@
 | 26.05.17 | 프로그래머스 | Level_Tests/Level_1 | 문자열 내림차순으로 배치하기 | 문자열 | Success |
 | 26.05.17 | 프로그래머스 | Level_Tests/Level_1 | 문자열 다루기 기본 | 문자열 | Success |
 | 26.05.17 | 프로그래머스 | Level_Tests/Level_1 | 크기가 작은 부분 문자열 | 문자열 | Success |
+| 26.05.17 | 프로그래머스 | Level_Tests/Level_1 | 숫자 문자열과 영단어 | 문자열 | Success |
 ---z
 ## 🛠 사용 기술 및 환경
 - **Language:** Python 3.14
