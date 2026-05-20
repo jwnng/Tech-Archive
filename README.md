@@ -72,7 +72,7 @@
 | 26.04.13 | 프로그래머스 | Level_2 | [더맵게](./Programmers/Level_Tests/Level_2/Level_2_더맵게.py) | 힙 | Success | |
 | 26.04.13 | 프로그래머스 | Level_2 | [다리를지나는트럭](./Programmers/Level_Tests/Level_2/Level_2_다리를지나는트럭.py) | 스택/큐 | Success | |
 | 26.04.12 | 프로그래머스 | Level_2 | [프로세스](./Programmers/Level_Tests/Level_2/Level_2_프로세스.py) | 스택/큐 | Success | |
-| 26.04.12 | 프로그래머스 | Level_2 | [올바른괄호](./Programmers/Level_Tests/Level_2/Level_2_올바른괄호.py) | 스택/큐 | Success | |
+| 26.04.12 | 프로그래머스 | Level_2 | [올바른괄호](./Programmers/Level_Tests/Level_2/Level_2_올바른괄호.py) | 스택/큐 | Success | 재풀이 |
 | 26.04.12 | 프로그래머스 | Level_2 | [기능개발](./Programmers/Level_Tests/Level_2/Level_2_기능개발.py) | 스택/큐 | Success | |
 | 26.04.10 | 백준 | 9375 | [패션왕신해빈](./Baekjoon/Data_Structure/Hash/9375_패션왕신해빈.py) | 해시 | Success | |
 | 26.04.10 | 백준 | 1764 | [듣보잡](./Baekjoon/Data_Structure/Hash/1764_듣보잡.py) | 해시 | Success | |
