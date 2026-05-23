@@ -1,35 +1,3 @@
-# 🧠 Tech-Archive: 빅데이터/AI 엔지니어를 위한 코딩 테스트 구현력 기르기
-
-> **"어제보다 성장한 오늘의 나를 위한 꾸준한 기록"**
-> 
-> 빅데이터/AI 엔지니어가 되기 위해 필수적인 **알고리즘, 핵심 CS 지식(OS 등), 데이터 구조 실무 적용력**을 기르는 저장소입니다. 
-
-💡 **상세한 개념 정리, 시각 자료는 [나만의 Notion 스페이스](https://www.notion.so/CS-Studying-277b842a1c0643e89284ee664dee9e96?source=copy_link)에 통합하여 체계적으로 관리하고 있습니다.** 🌱
-
----
-
-## 📅 2026 학습 목표
-- **상반기:** 프로그래머스 Level 2~3 고난도 문제 정복 및 기초 수학/통계 공부
-- **하반기:** 네이버 부스트캠프 AI Tech (AI/빅데이터 트랙) 합격 및 수료
-
----
-
-## 🛠️ Tech Stack & Environment
-- **Language:** `Python` (주력), `Java`, `Node.js`
-- **Focus:** Big Data / AI / Data Structure & Algorithm
-- **Environment:** macOS (MacBook Air) / VS Code
-
----
-
-## 🚀 나만의 풀이 원칙
-1. **솔루션 맹신 금지:** 가급적 힌트 없이 스스로 끝까지 풀고, 답을 보더라도 내 언어로 해석하여 노션에 메커니즘을 정리합니다.
-2. **다각도 최적화 (재풀이):** 시간/공간 복잡도가 비효율적인 코드는 통과했더라도 메모리를 줄이거나 가독성을 높여 반드시 다시 풀어봅니다.
-3. **꾸준한 잔디 관리:** 매일 최소 1문제 이상 풀이를 목표로 삼아 성실함의 연속성을 증명합니다.
-
----
-
-# 🏆 알고리즘 풀이 현황 (Log)
-
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 26.05.23 | 프로그래머스 | Level_1 | [실패율](./Programmers/Level_Tests/Level_1/Level_1_실패율.py) | 구현 | Success | |
@@ -59,15 +27,15 @@
 | 26.05.02 | 프로그래머스 | Level_1 | [소수찾기](./Programmers/Level_Tests/Level_1/Level_1_소수찾기.py) | itertools | Success | |
 | 26.04.27 | 프로그래머스 | Level_1 | [신규아이디추천](./Programmers/Level_Tests/Level_1/Level_1_신규아이디추천.py) | 문자열 | Success | |
 | 26.04.22 | 프로그래머스 | Level_2 | [디스크컨트롤러](./Programmers/Level_Tests/Level_2/Level_2_디스크컨트롤러.py) | 힙 | 진행 중 | |
-| 26.04.22 | 백준 | 5379 | [키로거](./Baekjoon/Data_Structure/Queue_Deque/5379_키로거.py) | 스택 | 진행 중 | |
+| 26.04.22 | 백준 | 5379 | [키로거](./Baekjoon/Data_Structure/Stack/5379_키로거.py) | 스택 | 진행 중 | |
 | 26.04.22 | 백준 | 2579 | [계단오르기](./Baekjoon/Dynamic_Programming/2579_계단오르기.py) | DP | 진행 중 | |
-| 26.04.22 | 백준 | 13460 | [구슬탈출2](./Baekjoon/Search/13460_구슬탈출2.py) | BFS | 진행 중 | |
+| 26.04.22 | 백준 | 13460 | [구슬탈출2](./Baekjoon/Search/Bfs/13460_구슬탈출2.py) | BFS | 진행 중 | |
 | 26.04.22 | 프로그래머스 | Level_3 | [네트워크](./Programmers/Level_Tests/Level_3/Level_3_네트워크.py) | DFS/BFS | Success | |
 | 26.04.18 | 프로그래머스 | Level_2 | [주차요금계산](./Programmers/Level_Tests/Level_2/Level_2_주차요금계산.py) | 구현 | Success | |
 | 26.04.17 | 프로그래머스 | Level_1 | [신고결과받기](./Programmers/Level_Tests/Level_1/Level_1_신고결과받기.py) | 구현 | Success | |
 | 26.04.16 | 백준 | 14503 | [로봇청소기](./Baekjoon/Implementation/14503_로봇청소기.py) | 구현 | Success | 재풀이 |
 | 26.04.16 | 백준 | 2108 | [통계학](./Baekjoon/Implementation/2108_통계학.py) | 구현 | Success | |
-| 26.04.15 | 백준 | 5430 | [쇠막대기](./Baekjoon/Data_Structure/Stack/5430_쇠막대기.py) | 스택 | Success | 고난도 |
+| 26.04.15 | 백준 | 10799 | [쇠막대기](./Baekjoon/Data_Structure/Stack/10799_쇠막대기.py) | 스택 | Success | 고난도 |
 | 26.04.14 | 백준 | 5430 | [AC](./Baekjoon/Data_Structure/Queue_Deque/5430_AC.py) | 큐/덱 | Success | |
 | 26.04.14 | 백준 | 11286 | [절댓값힙](./Baekjoon/Data_Structure/Heap/11286_절댓값힙.py) | 힙 | Success | |
 | 26.04.14 | 백준 | 11279 | [최대힙](./Baekjoon/Data_Structure/Heap/11279_최대힙.py) | 힙 | Success | |
@@ -91,33 +59,33 @@
 | 26.04.07 | 프로그래머스 | Level_2 | [타겟넘버](./Programmers/Level_Tests/Level_2/Level_2_타겟넘버.py) | DFS | Success | |
 | 26.04.07 | 프로그래머스 | Level_1 | [폰켓몬](./Programmers/Level_Tests/Level_1/Level_1_폰켓몬.py) | 해시 | Success | |
 | 26.04.07 | 프로그래머스 | Level_1 | [완주하지못한선수](./Programmers/Level_Tests/Level_1/Level_1_완주하지못한선수.py) | 해시 | Success | |
-| 26.04.06 | 백준 | 9205 | [맥주마시면서걸어가기](./Baekjoon/Search/9205_맥주마시면서걸어가기.py) | BFS | Success | |
-| 26.04.06 | 백준 | 2644 | [촌수계산](./Baekjoon/Search/2644_촌수계산.py) | DFS | Success | |
-| 26.04.06 | 백준 | 1260 | [DFS와BFS](./Baekjoon/Search/1260_DFS와BFS.py) | DFS | Success | |
-| 26.04.05 | 백준 | 2468 | [안전영역](./Baekjoon/Search/2468_안전영역.py) | BFS | Success | |
-| 26.04.05 | 백준 | 5014 | [스타트링크](./Baekjoon/Search/5014_스타트링크.py) | BFS | Success | |
-| 26.04.03 | 백준 | 5427 | [불](./Baekjoon/Search/5427_불.py) | BFS | Success | |
-| 26.04.03 | 백준 | 7562 | [나이트의이동](./Baekjoon/Search/7562_나이트의이동.py) | BFS | Success | |
-| 26.04.03 | 백준 | 7569 | [토마토](./Baekjoon/Search/7569_토마토.py) | BFS | Success | |
-| 26.04.02 | 백준 | 10026 | [적록색약](./Baekjoon/Search/10026_적록색약.py) | BFS | Success | |
-| 26.04.02 | 백준 | 1012 | [유기농배추](./Baekjoon/Search/1012_유기농배추.py) | BFS | Success | |
-| 26.04.01 | 백준 | 1697 | [숨바꼭질](./Baekjoon/Search/1697_숨바꼭질.py) | BFS | Success | |
-| 26.03.29 | 백준 | 4179 | [불](./Baekjoon/Search/4179_불.py) | BFS | Success | |
-| 26.03.29 | 백준 | 7576 | [토마토](./Baekjoon/Search/7576_토마토.py) | BFS | Success | |
-| 26.03.28 | 백준 | 1626 | [그림](./Baekjoon/Search/1626_그림.py) | BFS | Success | |
-| 26.03.28 | 백준 | 14888 | [연산자끼워넣기](./Baekjoon/Search/14888_연산자끼워넣기.py) | 백트래킹 | Success | |
-| 26.03.28 | 백준 | 15649 | [N과M(3)](./Baekjoon/Search/15649_N과M(3).py) | 백트래킹 | Success | |
-| 26.03.25 | 백준 | 15649 | [N과M(2)](./Baekjoon/Search/15649_N과M(2).py) | 백트래킹 | Success | |
-| 26.03.25 | 백준 | 15649 | [N과M(1)](./Baekjoon/Search/15649_N과M(1).py) | 백트래킹 | Success | |
+| 26.04.06 | 백준 | 9205 | [맥주마시면서걸어가기](./Baekjoon/Search/Bfs/9205_맥주마시면서걸어가기.py) | BFS | Success | |
+| 26.04.06 | 백준 | 2644 | [촌수계산](./Baekjoon/Search/Dfs/2644_촌수계산.py) | DFS | Success | |
+| 26.04.06 | 백준 | 1260 | [DFS와BFS](./Baekjoon/Search/Dfs/1260_DFS와BFS.py) | DFS | Success | |
+| 26.04.05 | 백준 | 2468 | [안전영역](./Baekjoon/Search/Bfs/2468_안전영역.py) | BFS | Success | |
+| 26.04.05 | 백준 | 5014 | [스타트링크](./Baekjoon/Search/Bfs/5014_스타트링크.py) | BFS | Success | |
+| 26.04.03 | 백준 | 5427 | [불](./Baekjoon/Search/Bfs/5427_불.py) | BFS | Success | |
+| 26.04.03 | 백준 | 7562 | [나이트의이동](./Baekjoon/Search/Bfs/7562_나이트의이동.py) | BFS | Success | |
+| 26.04.03 | 백준 | 7569 | [토마토](./Baekjoon/Search/Bfs/7569_토마토.py) | BFS | Success | |
+| 26.04.02 | 백준 | 10026 | [적록색약](./Baekjoon/Search/Bfs/10026_적록색약.py) | BFS | Success | |
+| 26.04.02 | 백준 | 1012 | [유기농배추](./Baekjoon/Search/Bfs/1012_유기농배추.py) | BFS | Success | |
+| 26.04.01 | 백준 | 1697 | [숨바꼭질](./Baekjoon/Search/Bfs/1697_숨바꼭질.py) | BFS | Success | |
+| 26.03.29 | 백준 | 4179 | [불](./Baekjoon/Search/Bfs/4179_불.py) | BFS | Success | |
+| 26.03.29 | 백준 | 7576 | [토마토](./Baekjoon/Search/Bfs/7576_토마토.py) | BFS | Success | |
+| 26.03.28 | 백준 | 1926 | [그림](./Baekjoon/Search/Bfs/1926_그림.py) | BFS | Success | |
+| 26.03.28 | 백준 | 14888 | [연산자끼워넣기](./Baekjoon/Search/Backtracking/14888_연산자끼워넣기.py) | 백트래킹 | Success | |
+| 26.03.28 | 백준 | 15649 | [N과M(3)](./Baekjoon/Search/Backtracking/15650_N과M(3).py) | 백트래킹 | Success | |
+| 26.03.25 | 백준 | 15649 | [N과M(2)](./Baekjoon/Search/Backtracking/15650_N과M(2).py) | 백트래킹 | Success | |
+| 26.03.25 | 백준 | 15649 | [N과M(1)](./Baekjoon/Search/Backtracking/15649_N과M(1).py) | 백트래킹 | Success | |
 | 26.03.25 | 백준 | 3190 | [뱀](./Baekjoon/Implementation/3190_뱀.py) | 구현 | Success | |
-| 26.03.24 | 백준 | 2583 | [영역구하기](./Baekjoon/Search/2583_영역구하기.py) | DFS | Success | |
-| 26.03.24 | 백준 | 2667 | [단지번호붙이기](./Baekjoon/Search/2667_단지번호붙이기.py) | DFS | Success | |
-| 26.03.23 | 백준 | 13023 | [ABCDE](./Baekjoon/Search/13023_ABCDE.py) | DFS | Success | |
-| 26.03.23 | 백준 | 2606 | [바이러스](./Baekjoon/Search/2606_바이러스.py) | DFS | Success | |
+| 26.03.24 | 백준 | 2583 | [영역구하기](./Baekjoon/Search/Dfs/2583_영역구하기.py) | DFS | Success | |
+| 26.03.24 | 백준 | 2667 | [단지번호붙이기](./Baekjoon/Search/Dfs/2667_단지번호붙이기.py) | DFS | Success | |
+| 26.03.23 | 백준 | 13023 | [ABCDE](./Baekjoon/Search/Dfs/13023_ABCDE.py) | DFS | Success | |
+| 26.03.23 | 백준 | 2606 | [바이러스](./Baekjoon/Search/Dfs/2606_바이러스.py) | DFS | Success | |
 | 26.03.23 | 백준 | 10866 | [덱](./Baekjoon/Data_Structure/Queue_Deque/10866_덱.py) | 큐/덱 | Success | |
 | 26.03.23 | 백준 | 10845 | [큐](./Baekjoon/Data_Structure/Queue_Deque/10845_큐.py) | 큐/덱 | Success | |
-| 26.03.23 | 백준 | 2178 | [미로탐색](./Baekjoon/Search/2178_미로탐색.py) | DFS | Success | |
+| 26.03.23 | 백준 | 2178 | [미로탐색](./Baekjoon/Search/Bfs/2178_미로탐색.py) | BFS | Success | |
 | 26.03.18 | 백준 | 14503 | [로봇청소기](./Baekjoon/Implementation/14503_로봇청소기.py) | 구현 | Success | |
-| 26.03.18 | 백준 | 10773 | [제로](./Baekjoon/Data_Structure/Stack/10773_제로.py) | 자료구조 | Success | |
-| 26.03.17 | 백준 | 1406 | [에디터](./Baekjoon/Data_Structure/Stack/1406_에디터.py) | 자료구조 | Success | |
-| 26.03.16 | 백준 | 2563 | [색종이](./Baekjoon/Implementation/2563_색종이.py) | 구현 | Success | |
+| 26.03.18 | 백준 | 10773 | [제로](./Baekjoon/Data_Structure/Stack/10773_zero.py) | 자료구조 | Success | |
+| 26.03.17 | 백준 | 1406 | [에디터](./Baekjoon/Data_Structure/Stack/1406_editor.py) | 자료구조 | Success | |
+| 26.03.16 | 백준 | 2563 | [색종이](./Baekjoon/Implementation/2663_colores_paper.py) | 구현 | Success | |
