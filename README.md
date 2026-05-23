@@ -28,7 +28,7 @@
 
 ---
 
-## 🏆 알고리즘 풀이 현황 (Log)
+# 🏆 알고리즘 풀이 현황 (Log)
 
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -106,9 +106,9 @@
 | 26.03.29 | 백준 | 7576 | [토마토](./Baekjoon/Search/7576_토마토.py) | BFS | Success | |
 | 26.03.28 | 백준 | 1626 | [그림](./Baekjoon/Search/1626_그림.py) | BFS | Success | |
 | 26.03.28 | 백준 | 14888 | [연산자끼워넣기](./Baekjoon/Search/14888_연산자끼워넣기.py) | 백트래킹 | Success | |
-| 26.03.28 | 백준 | 15649 | [N과M(3)](./Baekjoon/Search/15649_N과M_3.py) | 백트래킹 | Success | |
-| 26.03.25 | 백준 | 15649 | [N과M(2)](./Baekjoon/Search/15649_N과M_2.py) | 백트래킹 | Success | |
-| 26.03.25 | 백준 | 15649 | [N과M(1)](./Baekjoon/Search/15649_N과M_1.py) | 백트래킹 | Success | |
+| 26.03.28 | 백준 | 15649 | [N과M(3)](./Baekjoon/Search/15649_N과M(3).py) | 백트래킹 | Success | |
+| 26.03.25 | 백준 | 15649 | [N과M(2)](./Baekjoon/Search/15649_N과M(2).py) | 백트래킹 | Success | |
+| 26.03.25 | 백준 | 15649 | [N과M(1)](./Baekjoon/Search/15649_N과M(1).py) | 백트래킹 | Success | |
 | 26.03.25 | 백준 | 3190 | [뱀](./Baekjoon/Implementation/3190_뱀.py) | 구현 | Success | |
 | 26.03.24 | 백준 | 2583 | [영역구하기](./Baekjoon/Search/2583_영역구하기.py) | DFS | Success | |
 | 26.03.24 | 백준 | 2667 | [단지번호붙이기](./Baekjoon/Search/2667_단지번호붙이기.py) | DFS | Success | |
