@@ -1,5 +1,38 @@
+# 🧠 Tech-Archive: 빅데이터/AI 엔지니어를 위한 코딩 테스트 구현력 기르기
+
+> **"어제보다 성장한 오늘의 나를 위한 꾸준한 기록"**
+> 
+> 빅데이터/AI 엔지니어가 되기 위해 필수적인 **알고리즘, 핵심 CS 지식(OS 등), 데이터 구조 실무 적용력**을 기르는 저장소입니다. 
+
+💡 **상세한 개념 정리, 시각 자료는 [나만의 Notion 스페이스](https://www.notion.so/CS-Studying-277b842a1c0643e89284ee664dee9e96?source=copy_link)에 통합하여 체계적으로 관리하고 있습니다.** 🌱
+
+---
+
+## 📅 2026 학습 목표
+- **상반기:** 프로그래머스 Level 2~3 고난도 문제 정복 및 기초 수학/통계 공부
+- **하반기:** 네이버 부스트캠프 AI Tech (AI/빅데이터 트랙) 합격 및 수료
+
+---
+
+## 🛠️ Tech Stack & Environment
+- **Language:** `Python` (주력), `Java`, `Node.js`
+- **Focus:** Big Data / AI / Data Structure & Algorithm
+- **Environment:** macOS (MacBook Air) / VS Code
+
+---
+
+## 🚀 나만의 풀이 원칙
+1. **솔루션 맹신 금지:** 가급적 힌트 없이 스스로 끝까지 풀고, 답을 보더라도 내 언어로 해석하여 노션에 메커니즘을 정리합니다.
+2. **다각도 최적화 (재풀이):** 시간/공간 복잡도가 비효율적인 코드는 통과했더라도 메모리를 줄이거나 가독성을 높여 반드시 다시 풀어봅니다.
+3. **꾸준한 잔디 관리:** 매일 최소 1문제 이상 풀이를 목표로 삼아 성실함의 연속성을 증명합니다.
+
+---
+
+# 🏆 알고리즘 풀이 현황 (Log)
+
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26.05.25 | 프로그래머스 | Level_2 | [행렬테두리회전하기](./Programmers/Level_Tests/Level_2/Level_2_행렬테두리회전하기.py) | 구현 | 진행 중 | |
 | 26.05.23 | 프로그래머스 | Level_1 | [실패율](./Programmers/Level_Tests/Level_1/Level_1_실패율.py) | 구현 | Success | |
 | 26.05.22 | 프로그래머스 | Level_1 | [키패드누르기](./Programmers/Level_Tests/Level_1/Level_1_키패드누르기.py) | 구현 | Success | |
 | 26.05.21 | 프로그래머스 | Level_2 | [카펫](./Programmers/Level_Tests/Level_2/Level_2_카펫.py) | 구현 | Success | |
