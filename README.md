@@ -9,13 +9,12 @@
 ---
 
 ## 📅 2026 학습 목표
-- **상반기:** 프로그래머스 Level 2~3 고난도 문제 정복 및 기초 수학/통계 공부
-- **하반기:** 네이버 부스트캠프 AI Tech (AI/빅데이터 트랙) 합격 및 수료
+- 프로그래머스 Level 2~3 고난도 문제 정복 및 기초 수학/통계 공부
 
 ---
 
 ## 🛠️ Tech Stack & Environment
-- **Language:** `Python` (주력), `Java`, `Node.js`
+- **Language:** `Python` (주력), `JavaScript`, `Node.js`
 - **Focus:** Big Data / AI / Data Structure & Algorithm
 - **Environment:** macOS (MacBook Air) / VS Code
 
@@ -32,6 +31,7 @@
 
 | 날짜 | 플랫폼 | 문제 번호 | 제목 | 분류 | 상태 | 비고 |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| 26.05.29 | 프로그래머스 | Level_1 | [공원산책](./Programmers/Level_Tests/Level_1/Level_1_공원산책.py) | 구현 | Success | |
 | 26.05.26 | 프로그래머스 | Level_2 | [[3차]파일명정렬](./Programmers/Level_Tests/Level_2/Level_2_[3차]파일명정렬.py) | 구현 | Success | |
 | 26.05.25 | 프로그래머스 | Level_2 | [행렬테두리회전하기](./Programmers/Level_Tests/Level_2/Level_2_행렬테두리회전하기.py) | 구현 | Success | |
 | 26.05.23 | 프로그래머스 | Level_1 | [실패율](./Programmers/Level_Tests/Level_1/Level_1_실패율.py) | 구현 | Success | |
